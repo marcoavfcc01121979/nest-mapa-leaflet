@@ -1,5 +1,9 @@
 const Main = () => {
-  return <div></div>
+  return (
+    <main>
+      <h1>React Avançado</h1>
+    </main>
+  )
 }
 
 export { Main }
