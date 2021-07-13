@@ -18,8 +18,12 @@
       "yarn test --findRelatedTests --bail"
     ]
   },
+  "resolutions": {
+    "react-leaflet/@react-leaflet/core": "1.0.2"
+  },
   "dependencies": {
     "leaflet": "1.7.1",
+    "@react-leaflet/core": "1.0.2",
     "next": "10.2.3",
     "next-pwa": "^5.2.21",
     "react": "17.0.2",
